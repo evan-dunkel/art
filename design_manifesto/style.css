@@ -96,11 +96,10 @@ body {
 
   @media (min-width: 1200px){
     #content-grid {
-      /* grid-template-columns: 62vw 38vw;
+      grid-template-columns: 62vw 38vw;
       grid-template-areas:
       "image paragraph"
-      ". paragraph"; */
-      display: block;
+      ". paragraph";
     }
     #paragraph {
       font-size: 2vmax;
